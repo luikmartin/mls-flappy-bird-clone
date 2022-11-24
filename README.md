@@ -1,10 +1,12 @@
 # Flappy Bird Clone
 
-Original game by .Gears
+Original game by DOTGEARS (.Gears)
 
 A clone by Martin Luik
 
 Made with Unity 2021.3.13f1
+
+![Alt Text](./gameplay.gif)
 
 ## Sources
 
